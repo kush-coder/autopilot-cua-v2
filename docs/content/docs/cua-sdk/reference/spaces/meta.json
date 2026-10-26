@@ -1,0 +1,18 @@
+{
+  "title": "Spaces",
+  "pages": [
+    "resize",
+    "lifetime",
+    "space",
+    "elastic",
+    "build",
+    "channel",
+    "volume",
+    "streams",
+    "resources",
+    "list-watch",
+    "agents",
+    "persistent-agents",
+    "host"
+  ]
+}

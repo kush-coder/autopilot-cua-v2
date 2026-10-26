@@ -1,0 +1,14 @@
+{
+  "title": "CLI",
+  "pages": [
+    "index",
+    "spaces-and-computers",
+    "files-teleport-and-keys",
+    "sandboxes",
+    "images-and-clouds",
+    "computer-actions",
+    "agents",
+    "account-and-setup",
+    "pool"
+  ]
+}
